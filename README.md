@@ -14,6 +14,3 @@ Commands:
 + `CACHE` to view your local username-key cache.
   
 ![secretChat demonstration](https://drive.google.com/uc?export=view&id=1XE0RGLEIVEmRVFDNeP1nFa-CwBEYo-Fj)
-1XE0RGLEIVEmRVFDNeP1nFa-CwBEYo-Fj
-
-https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG
