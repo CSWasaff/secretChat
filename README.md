@@ -13,4 +13,4 @@ Commands:
 + ``<username>`<message>`` to send an encrypted message to a user.  
 + `CACHE` to view your local username-key cache.
   
-![image](https://drive.google.com/file/d/1XE0RGLEIVEmRVFDNeP1nFa-CwBEYo-Fj/view?usp=sharing)
+![secretChat demonstration](https://drive.google.com/file/d/1XE0RGLEIVEmRVFDNeP1nFa-CwBEYo-Fj/view?usp=sharing)
